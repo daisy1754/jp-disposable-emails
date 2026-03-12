@@ -7,6 +7,7 @@ List includes (but not limited to) domains from following site:
 - http://15qm.com/
 - https://www.onetime-mail.com/
 - https://ワンタイムメール.総合サービス.com/
+- https://www.5ymail.com/
+- https://harakirimail.com/
 
 MIT LICENSE
-
